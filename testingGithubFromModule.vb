@@ -4,5 +4,5 @@ Option Explicit
 '    Application.Run "'Save_To_Github.xlam'!SaveToGithub.SaveVbaScriptToGitHub"
 'End Sub
 Sub test2()
-    Debug.Print "hello"
+    Debug.Print "hello There"
 End Sub
