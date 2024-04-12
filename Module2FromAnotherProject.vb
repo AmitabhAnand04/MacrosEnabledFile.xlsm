@@ -6,4 +6,7 @@ Sub TestModule2()
         Sheet1.Cells(i, j).Value = i
     Next i
     Debug.Print "Hello"
+    Debug.Print "Hello"
+    Debug.Print "Hello"
+    Debug.Print "Hello"
 End Sub
