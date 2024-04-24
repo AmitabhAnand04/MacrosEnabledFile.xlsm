@@ -8,5 +8,6 @@ Sub Test()
             Sheet1.Cells(i, j).Value = i
         Next i
     Next j
+    MsgBox "Hiii"
     MsgBox "Byee"
 End Sub
